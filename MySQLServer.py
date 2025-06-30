@@ -1,4 +1,4 @@
-import  mysql.connector
+import mysql.connector
 from mysql.connector import errorcode
 try:
     connection = mysql.connector.connect(
